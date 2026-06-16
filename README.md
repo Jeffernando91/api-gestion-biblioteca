@@ -13,3 +13,4 @@
 - Jefferson Fernando Espinoza Orquera
 - Melany Noemi Pesantes Yepez
 - Henry Pablo Cantos Muñoz
+- Brayan Parraga Sanchez
